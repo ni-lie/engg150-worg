@@ -2,6 +2,9 @@
 
 
 ## Forum
+Product backlog:
+1. PB #5 (For Organizations): As an organization, I should be able to peruse job postings from different industries. 
+2. PB #3 (For Industries): From an industry, I am able to post services that I need. 
 - **For the most part, the forum page is now functional**.
     <p align = "center"> 
         <img src="images\forum.png" alt="image">
