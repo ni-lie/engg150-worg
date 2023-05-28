@@ -77,4 +77,4 @@ Product backlogs:
         <img src="images\org_pov_clientDone.png" alt="image">
     </p> 
 
-- Organization and industries/clients can choose to archive the one-to-one transaction. 
+- Organization and industries/clients can then choose to archive the one-to-one transaction. 
